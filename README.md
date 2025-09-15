@@ -48,4 +48,7 @@ python for scripting
 </div>
 
 ## Projects
-- HTB Labs
+
+- HTB Alchemy Lab (in progress)
+    - A professional ICS/OT lab simulating a brewery, exploiting IT and operational systems (AD, HMIs, PLCs, Modbus) to build real-world industrial control security skills.
+- CPTS (Certified Penetration Testing Specialist)
