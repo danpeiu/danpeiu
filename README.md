@@ -39,7 +39,7 @@ Tools used
 
 [![Google Cybersecurity Certificate](https://img.shields.io/badge/Google-Cybersecurity%20Certificate-red?logo=google&logoColor=white)](https://grow.google/certificates/cybersecurity/)
 
-![arcX Cyber Threat Intelligence](https://img.shields.io/badge/arcX_Cyber_Threat_Intelligence-FTIA-black?style=for-the-badge&logo=arcX&logoColor=white)
+![arcX Cyber Threat Intelligence](https://img.shields.io/badge/arcX_Cyber_Threat_Intelligence-black?style=for-the-badge&logo=arcX&logoColor=white)
 
 </div>
 
