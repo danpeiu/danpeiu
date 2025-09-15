@@ -35,11 +35,11 @@ Tools used
 
 <div>
 
-[![BSc Cyber Security - Bournemouth University](https://img.shields.io/badge/BSc%20Cyber%20Security-Bournemouth%20University-blue?logo=graduation-cap&logoColor=white)](https://www.bournemouth.ac.uk/study/courses/bsc-hons-cyber-security-management)<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+[![BSc Cyber Security - Bournemouth University](https://img.shields.io/badge/BSc%20Cyber%20Security-Bournemouth%20University-blue?logo=graduation-cap&logoColor=white)](https://www.bournemouth.ac.uk/study/courses/bsc-hons-cyber-security-management)
 
 [![Google Cybersecurity Certificate](https://img.shields.io/badge/Google-Cybersecurity%20Certificate-red?logo=google&logoColor=white)](https://grow.google/certificates/cybersecurity/)
 
-![arcX Cyber Threat Intelligence](https://img.shields.io/badge/arcX_Cyber_Threat_Intelligence-Completed-4c1?logo=arcX&style=for-the-badge)
+![arcX Cyber Threat Intelligence](https://img.shields.io/badge/arcX_Cyber_Threat_Intelligence-4c1?logo=arcX&style=for-the-badge)
 
 </div>
 
