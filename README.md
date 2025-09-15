@@ -30,8 +30,8 @@ Hoping to ultimately work in a Threat Intelligence role.
 ## Tools
 
 Tools used:
-nmap, wireshark, splunk, johntheripper, netcat, sqlmap etc.
-\python for scripting
+nmap, wireshark, splunk, johntheripper, netcat, sqlmap etc.\
+python for scripting
 
 ## Certifications
 
