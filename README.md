@@ -4,11 +4,11 @@
 <a href="https://www.discord.gg/goldeennn"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
 <a href="https://www.github.com/danpeiu"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /> </a>
 
-"https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
 ## Background
 
-I am an IT Technician who is driven to solve complex problems and dive deep into the technicals.
-Graduate in Cyber Security, I am constantly adding to my portfolio, while studying for Security+ and OSCP.
+IT Technician passionate about solving technical problems and exploring systems in depth. 
+Graduated in Cyber Security, now actively building a hands-on portfolio while studying for Security+ and OSCP. 
+I enjoy tackling complex challenges and applying practical solutions to real-world IT and security problems, becoming increasingly curious as I go along.
 
 ## Objective
 
@@ -38,6 +38,8 @@ Tools used
 [![BSc Cyber Security - Bournemouth University](https://img.shields.io/badge/BSc%20Cyber%20Security-Bournemouth%20University-blue?logo=graduation-cap&logoColor=white)](https://www.bournemouth.ac.uk/study/courses/bsc-hons-cyber-security-management)<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 
 [![Google Cybersecurity Certificate](https://img.shields.io/badge/Google-Cybersecurity%20Certificate-red?logo=google&logoColor=white)](https://grow.google/certificates/cybersecurity/)
+
+![arcX Cyber Threat Intelligence](https://img.shields.io/badge/arcX_Cyber_Threat_Intelligence-Completed-4c1?logo=arcX&style=for-the-badge)
 
 </div>
 
