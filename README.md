@@ -35,9 +35,9 @@ Tools used
 
 <div>
 
-[![BSc Cyber Security - Bournemouth University](https://img.shields.io/badge/BSc%20Cyber%20Security-Bournemouth%20University-blue?logo=graduation-cap&logoColor=white)](https://www.bournemouth.ac.uk/study/courses/bsc-hons-cyber-security-management)
+![Bournemouth University Cyber Security Degree](https://img.shields.io/badge/Bournemouth_University_Cyber_Security-Degree-black?style=for-the-badge&logo=bournemouth-university&logoColor=white)
 
-[![Google Cybersecurity Certificate](https://img.shields.io/badge/Google-Cybersecurity%20Certificate-red?logo=google&logoColor=white)](https://grow.google/certificates/cybersecurity/)
+![Google Cyber Security Certificate](https://img.shields.io/badge/Google_Cyber_Security_Certificate-Completed-black?style=for-the-badge&logo=google&logoColor=white)
 
 ![arcX Cyber Threat Intelligence](https://img.shields.io/badge/arcX_Cyber_Threat_Intelligence-black?style=for-the-badge&logo=arcX&logoColor=white)
 
