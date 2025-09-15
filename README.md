@@ -7,12 +7,14 @@
 ## Background
 
 IT Technician passionate about solving technical problems and exploring systems in depth. 
-Graduated in Cyber Security, now actively building a hands-on portfolio while studying for Security+ and OSCP. 
+Graduated in Cyber Security, now actively building a hands-on portfolio while studying for Security+ and HTB's CPTS. 
 I enjoy tackling complex challenges and applying practical solutions to real-world IT and security problems, becoming increasingly curious as I go along.
 
 ## Objective
 
-I focus on both physical and cyber security, with the goal of moving into a cyber security role. I am building expertise in penetration testing and exploring Operational Technology (OT) security to identify risks where industrial systems and cyber security intersect, hoping to ultimately work in a Threat Intelligence role.
+I focus on both physical and cyber security, with the goal of moving into a cyber security role. I am building expertise in penetration testing and exploring Operational Technology
+(OT) security in my spare time to identify risks where industrial systems and cyber security intersect.
+Hoping to ultimately work in a Threat Intelligence role.
 
 ## Skills
 
