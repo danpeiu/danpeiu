@@ -1,5 +1,10 @@
 # Danut Peiu - Portfolio
+## Socials
 <a href="https://www.linkedin.com/in/danpeiu/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.discord.gg/goldeennn"><img src="https://img.shields.io/badge/Join-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="https://www.github.com/danpeiu"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /> </a>
+
+## Background
 
 I am an IT Technician who is driven to solve complex problems and dive deep into the technicals.
 Graduate in Cyber Security, I am constantly adding to my portfolio, while studying for Security+ and OSCP.
