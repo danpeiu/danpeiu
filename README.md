@@ -39,7 +39,7 @@ python for scripting
 
 ![Google Cyber Security Certificate](https://img.shields.io/badge/Google-Cyber_Security_Certificate-black?style=for-the-badge&logoColor=white)
 
-![arcX Cyber Threat Intelligence](https://img.shields.io/badge/arcX_Cyber_Threat_Intelligence-Foundations-black?style=for-the-badge&logoColor=white)
+![arcX Cyber Threat Intelligence](https://img.shields.io/badge/arcX-Cyber_Threat_Intelligence_Foundations-black?style=for-the-badge&logoColor=white)
 
 ![SIA Licence](https://img.shields.io/badge/SIA_Licence-Door_Supervisor-black?style=for-the-badge&logoColor=white)
 
