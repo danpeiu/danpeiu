@@ -12,9 +12,7 @@ I enjoy tackling complex challenges and applying practical solutions to real-wor
 
 ## Objective
 
-I am passionate about security, both physical and cyber. My goal at the moment is to transition to a cyber security role.
-I would love to learn penetration testing in depth, then put that knowledge to use in a Threat Intelligence or Threat Hunting role.
-Currently also studying OT security, how industrial systems and cyber security meet, and where risks lie. 
+I focus on both physical and cyber security, with the goal of moving into a cyber security role. I am building expertise in penetration testing and exploring Operational Technology (OT) security to identify risks where industrial systems and cyber security intersect, hoping to ultimately work in a Threat Intelligence role.
 
 ## Skills
 
@@ -29,7 +27,9 @@ Currently also studying OT security, how industrial systems and cyber security m
 
 ## Tools
 
-Tools used
+Tools used:
+nmap, wireshark, splunk, johntheripper, netcat, sqlmap etc.
+python for scripting
 
 ## Certifications
 
@@ -41,8 +41,9 @@ Tools used
 
 ![arcX Cyber Threat Intelligence](https://img.shields.io/badge/arcX_Cyber_Threat_Intelligence_Foundations-black?style=for-the-badge&logo=arcX&logoColor=white)
 
+![SIA Licence](https://img.shields.io/badge/SIA_Licence-black?style=for-the-badge&logoColor=white)
+
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- HTB Labs
