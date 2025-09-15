@@ -37,11 +37,11 @@ python for scripting
 
 ![Bournemouth University Cyber Security Degree](https://img.shields.io/badge/BSc_Cyber_Security-Bournemouth_University-black?style=for-the-badge&logo=bournemouth-university&logoColor=white)
 
-![Google Cyber Security Certificate](https://img.shields.io/badge/Google_Cyber_Security_Certificate-black?style=for-the-badge&logoColor=white)
+![Google Cyber Security Certificate](https://img.shields.io/badge/Google-Cyber_Security_Certificate-black?style=for-the-badge&logoColor=white)
 
 ![arcX Cyber Threat Intelligence](https://img.shields.io/badge/arcX_Cyber_Threat_Intelligence-Foundations-black?style=for-the-badge&logoColor=white)
 
-![SIA Licence](https://img.shields.io/badge/SIA_Licence_(DS)-black?style=for-the-badge&logoColor=white)
+![SIA Licence](https://img.shields.io/badge/SIA_Licence-Door_Supervisor-black?style=for-the-badge&logoColor=white)
 
 </div>
 
