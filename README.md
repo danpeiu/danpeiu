@@ -41,7 +41,7 @@ python for scripting
 
 ![arcX Cyber Threat Intelligence](https://img.shields.io/badge/arcX_Cyber_Threat_Intelligence-Foundations-black?style=for-the-badge&logo=arcX&logoColor=white)
 
-![SIA Licence](https://img.shields.io/badge/SIA_Licence-black?style=for-the-badge&logoColor=white)
+![SIA Licence](https://img.shields.io/badge/SIA_Licence_(DS)-black?style=for-the-badge&logoColor=white)
 
 </div>
 
