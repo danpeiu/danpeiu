@@ -16,17 +16,6 @@ I focus on both physical and cyber security, with the goal of moving into a cybe
 (OT) security in my spare time to identify risks where industrial systems and cyber security intersect.
 Hoping to ultimately work in a Threat Intelligence role.
 
-## Skills
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | Detection Lab |
-| Network Traffic Monitoring and Attack Detection | Detection Lab |
-| Security Automation with Shuffle SOAR         | SOC Automation Lab |
-| Incident Response Planning and Execution      | SOC Automation Lab |
-| Case Management with TheHive                  | SOC Automation Lab |
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab |
-
 ## Tools
 
 Tools used:
